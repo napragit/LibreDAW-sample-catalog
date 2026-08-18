@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": "2026.08",
+  "generatedAt": "2026-08-18T19:15:57.436137+00:00",
+  "packs": [
+    {
+      "id": "pneuma-pro",
+      "name": "Pneuma Pro",
+      "manifest": "packs/pneuma-pro.json",
+      "sampleCount": 910,
+      "bytes": 62001499,
+      "licenses": [
+        "Pneuma Pro community rendered samples"
+      ],
+      "group": "source",
+      "release": "2026.08",
+      "legacy": false
+    }
+  ],
+  "legacyPacks": []
+}

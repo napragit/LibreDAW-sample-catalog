@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": "2026.08",
+  "generatedAt": "2026-08-18T19:15:57.436137+00:00",
+  "release": "2026.08",
+  "mode": "current",
+  "githubReleaseAssetUrlTemplate": "https://github.com/napragit/LibreDAW-sample-catalog/releases/download/2026.08/",
+  "githubSampleUrlBase": "https://raw.githubusercontent.com/napragit/LibreDAW-sample-catalog/main/",
+  "catalog": "catalog/current/index.json",
+  "assets": [
+    {
+      "packId": "pneuma-pro",
+      "name": "Pneuma Pro",
+      "asset": "pneuma-pro-2026.08.zip",
+      "sampleCount": 910,
+      "bytes": 62001499,
+      "license": [
+        "Pneuma Pro community rendered samples"
+      ],
+      "downloadUrl": "https://github.com/napragit/LibreDAW-sample-catalog/releases/download/2026.08/pneuma-pro-2026.08.zip"
+    }
+  ],
+  "individualRoot": "individual/",
+  "instructions": "Commit catalog/ and individual/ to the GitHub sample repository; upload archives/ as Release assets."
+}
